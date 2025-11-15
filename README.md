@@ -31,3 +31,4 @@ Lectures, videos & corresponding project files from Stanford can be found [here]
 ## Extra Resources
 1. [Swift Programming Language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
 2. [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+3. [Course Website](https://cs193p.stanford.edu/2023)
